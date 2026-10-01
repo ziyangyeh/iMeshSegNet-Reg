@@ -1,0 +1,16 @@
+iMeshSegNet-Reg
+Copyright 2023, 2026 Ziyang Ye
+
+This project is an independent, unofficial implementation based on methods
+described in:
+
+Tai-Hsien Wu et al., "Two-Stage Mesh Deep Learning for Automated Tooth
+Segmentation and Landmark Localization on 3D Intraoral Scans,"
+IEEE Transactions on Medical Imaging, vol. 41, no. 11, pp. 3158-3166, 2022.
+DOI: 10.1109/TMI.2022.3180343
+https://doi.org/10.1109/TMI.2022.3180343
+
+It is not an official release by the paper's authors and does not imply
+their endorsement.
+
+Licensed under the Apache License, Version 2.0.
